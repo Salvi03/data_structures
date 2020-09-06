@@ -35,4 +35,3 @@ if __name__ == "__main__":
     array.set_value(0, 2)
     print(f"{ array.get_value(0) } { array.get_value(2) }")
     """
-    #
