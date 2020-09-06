@@ -25,6 +25,9 @@ if __name__ == "__main__":
     array.set_value(0, array1)
     array1.set_value(0, 6)
 
+    array2 = array.get_value(0)
+    array2.set_value(0, 98)
+
     print(array.get_value(0).get_value(0))
 
     """
